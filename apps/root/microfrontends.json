@@ -3,7 +3,7 @@
   "applications": {
     "single-spa-root-microfrontend": {
       "development": {
-        "fallback": "single-spa-root-microfrontend.vercel.app"
+        "fallback": "single-spa-root-microfrontend.labs.vercel.dev"
       }
     },
     "single-spa-content-microfrontend": {
