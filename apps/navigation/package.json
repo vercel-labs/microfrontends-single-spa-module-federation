@@ -1,5 +1,5 @@
 {
-  "name": "microfrontends-single-spa-module-federation-navigation",
+  "name": "single-spa-navigation-microfrontend",
   "version": "0.0.0",
   "private": true,
   "type": "module",

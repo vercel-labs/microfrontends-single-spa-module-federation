@@ -1,5 +1,5 @@
 {
-  "name": "microfrontends-single-spa-module-federation-content",
+  "name": "single-spa-content-microfrontend",
   "version": "0.0.0",
   "private": true,
   "type": "module",
